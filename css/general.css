@@ -31,6 +31,7 @@ Primary: #e67e22
 Tints: 
 #fdf2e9 
 #fae5d3
+#eb984e
 Shades:#cf711f
 Accents
 Greys
@@ -40,6 +41,7 @@ Greys
 #888
 
 --- 03 SHADOWS
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.075);
 .075
 --- 04 BORDER-RADIUS s
 9px 11px
