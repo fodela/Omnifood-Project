@@ -69,6 +69,8 @@ html {
 
   /* to slide in from right effect of nav menu  */
   overflow-x: hidden;
+
+  scroll-behavior: smooth;
 }
 
 body {
